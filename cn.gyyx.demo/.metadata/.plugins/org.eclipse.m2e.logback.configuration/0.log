@@ -164,3 +164,15 @@ java.lang.NullPointerException: null
 2015-11-25 15:30:47,412 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\javaee-workspace\cn.gyyx.demo\demo-root\demo-dao\src\main\resources
 2015-11-25 15:30:47,414 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-11-25 15:30:47,414 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\javaee-workspace\cn.gyyx.demo\demo-root\demo-dao\src\test\resources
+2015-11-30 09:51:28,781 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.gyyx:demo:1.0.0 @ F:\javaee-workspace\cn.gyyx.demo\demo-root\demo-ui\pom.xml.
+2015-11-30 09:51:30,023 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-30 09:51:30,029 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-30 09:51:30,041 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-30 09:51:30,042 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-30 09:51:30,048 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo-ui
+2015-11-30 09:51:30,049 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo-ui
+2015-11-30 09:51:30,060 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-30 09:51:59,740 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-30 09:51:59,755 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-30 09:51:59,771 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-30 09:51:59,771 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
